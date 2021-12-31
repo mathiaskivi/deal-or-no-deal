@@ -6,5 +6,5 @@
 
 ## Run the game
 ```
-java -jar DealOrNoDeal.jar
+java -jar dond-2021.12.1.jar
 ```
